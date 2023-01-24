@@ -1,0 +1,13 @@
+{
+  "name": "Modbus RTU Master/Slave",
+  "apiVersion": "1.0.0",
+  "author": "Jonathan Reichelt Gjertsen",
+  "version": "0.0.1",
+  "description": "",
+  "extensions": {
+    "Modbus RTU Master/Slave": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
